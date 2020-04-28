@@ -28,3 +28,5 @@ Muffins
 Water
 La Croix
 Vitamin Water
+Grape Soda
+Sprite
