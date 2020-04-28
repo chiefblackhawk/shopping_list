@@ -7,3 +7,6 @@ Watermellon
 Pizza
 Cheese
 Mozzarella Sticks
+Hotdogs
+Steak
+Chicken Breast
