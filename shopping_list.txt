@@ -32,3 +32,5 @@ Grape Soda
 Sprite
 Wine
 Green Grapes
+Onion
+Pineapple
