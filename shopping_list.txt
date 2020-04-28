@@ -5,3 +5,6 @@ Pears
 Bannanas
 Kiwi
 Watermellon
+Pizza
+Cheese
+Mozzarella Sticks
