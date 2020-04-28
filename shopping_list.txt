@@ -25,3 +25,5 @@ Cheesecake
 Pretzels
 Fruit Rollups
 Muffins
+Water
+Wine
